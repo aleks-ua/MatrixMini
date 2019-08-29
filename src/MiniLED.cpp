@@ -51,11 +51,11 @@ void MiniLED::set(byte color) {
 			break;
 		case 2:
 			// orange
-			setHSV(6);
+			setHSV(3);
 			break;
 		case 3:
 			// yellow
-			setHSV(20);
+			setHSV(10);
 			break;
 		case 4:
 			// green
